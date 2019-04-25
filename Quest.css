@@ -1,0 +1,15 @@
+.text,.title,.links{
+	text-indent: 1.5em; 
+	text-align: justify;
+	line-height: 30px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: white;
+
+}
+.text{
+	margin-right: 8px;
+	margin-left: 8px; 
+}
+body{
+	background: url("Паб.jpg") no-repeat;
+}
